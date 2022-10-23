@@ -7,3 +7,9 @@ Two popular methods dominate SEM in practice: covariance-based SEM (CBSEM) and p
 
 
 Here are the tutorials to quickly get started with the methods
+
+![alt text](https://www.projectguru.in/wp-content/uploads/2021/10/SEM-types-edited-scaled.jpg)
+
+# References:
+
+Partial Least Squares Structural Equation Modeling (PLS-SEM) Using R(2022)
