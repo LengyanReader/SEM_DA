@@ -10,6 +10,8 @@ Here are the tutorials to quickly get started with the methods
 
 ![alt text](https://www.projectguru.in/wp-content/uploads/2021/10/SEM-types-edited-scaled.jpg)
 
-# References:
+# Main References:
 
 Partial Least Squares Structural Equation Modeling (PLS-SEM) Using R(2022)
+
+PLS-SEM Book: A Primer on PLS-SEM (3rd Ed.)
